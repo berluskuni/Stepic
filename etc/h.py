@@ -8,4 +8,3 @@ CONFIG = {
          'hello.py',
             ),
 }
-
